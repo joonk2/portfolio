@@ -148,7 +148,7 @@ const mainProjects: Project[] = [
   },
   {
     title: 'Re:code',
-    period: '2024.07 ~ 2024.08',
+    period: '2025.07 ~ 2025.08',
     description:
       'Re:code는 고령자의 정서적 안정과 인지 능력 유지를 돕기 위해 AI 기반 회상 훈련을 제공하는 디지털 플랫폼입니다. Gemini와 STT를 활용해 맞춤형 질문을 생성하고, 감정 분석과 보호자 연동, 커뮤니티 기능을 통해 지속적인 회상 활동을 지원합니다.',
     image: '/assets/recode.png',
