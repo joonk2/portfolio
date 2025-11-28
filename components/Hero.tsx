@@ -33,10 +33,9 @@ export default function Hero() {
       <div className="absolute inset-0 bg-[radial-gradient(circle_at_30%_40%,rgba(59,130,246,0.1),transparent_60%),radial-gradient(circle_at_70%_60%,rgba(139,92,246,0.08),transparent_60%)] pointer-events-none"></div>
       <div className="text-center max-w-[95%] lg:max-w-7xl mx-auto relative z-10">
         <div className="mb-8">
-          <h1 className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl font-bold mb-6 text-secondary">
-            웹 개발자
-            <br />
-            <span className="text-primary">고준환</span>
+          <h1 className="font-bold mb-6 text-secondary">
+            <span className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl block mb-2">웹 개발자</span>
+            <span className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl block text-primary">고준환</span>
           </h1>
         </div>
         
