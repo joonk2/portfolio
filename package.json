@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "set HOSTNAME=localhost&& next dev -p 3002",
+    "dev": "next dev -p 3000",
     "dev:alt": "next dev -p 3003",
     "build": "next build",
     "start": "next start",
