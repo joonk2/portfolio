@@ -1,4 +1,3 @@
-
 # 개발 포트폴리오
 
 ### 목차
@@ -50,6 +49,19 @@
 
 농업재해 담당 공무원의 현장조사 및 행정 업무를 지원하는 AI 기반 서비스입니다.
 
+### Tech Stack (설계 기준)
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![NAVER Cloud Platform](https://img.shields.io/badge/NAVER_Cloud_Platform-03C75A?style=flat-square&logo=naver&logoColor=white)
+
 <a href="https://youtu.be/yFLi8h0N6rc">
   <img src="https://img.youtube.com/vi/yFLi8h0N6rc/0.jpg" width="400">
 </a>
@@ -82,10 +94,6 @@
 | 조사 결과 | 검토 및 NDMS 입력 정리본 생성 |
 | 경로 최적화 | TMAP API 기반 방문 경로 추천 |
 
-**Tech Stack (설계 기준)**
-
-Flutter · Spring Boot · FastAPI · PostgreSQL · PostGIS · pgvector · SQLite · RAG · Docker · NAVER Cloud Platform
-
 ---
 
 ## 3. 동백원패스
@@ -95,6 +103,20 @@ Flutter · Spring Boot · FastAPI · PostgreSQL · PostGIS · pgvector · SQLite
 > 카드 혜택 비교 및 모의결제 서비스
 
 동백전과 일반 카드를 통합 관리하고 카드별 혜택을 비교하여 유리한 결제수단을 추천하는 서비스입니다.
+
+### Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white)
+![NeonDB](https://img.shields.io/badge/NeonDB-00E599?style=flat-square&logo=neon&logoColor=black)
 
 [GitHub Repository](https://github.com/joonk2/onepass_with_dongbakcoin)
 
@@ -156,10 +178,6 @@ if (d >= 0) {
 **결과**
 
 양방향으로 끊김 없이 이동하는 무한 순환 카드 캐러셀 구현
-
-**Tech Stack**
-
-Python · FastAPI · SQLAlchemy · PostgreSQL · pytest · Next.js · React · TypeScript · Vercel · Render · NeonDB
 
 ---
 
